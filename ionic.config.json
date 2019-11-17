@@ -1,5 +1,7 @@
 {
   "name": "controlLedApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
